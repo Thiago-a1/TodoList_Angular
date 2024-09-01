@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "tarefa": "teste 1",
+      "categoria": "Faculdade",
+      "concluido": false
+    },
+    {
+      "id": "6dc3",
+      "tarefa": "teste de adicionar tarefa ",
+      "categoria": "trabalho",
+      "concluido": true
+    },
+    {
+      "id": "d6ab",
+      "tarefa": "mais um teste",
+      "categoria": "academia",
+      "concluido": false
+    }
+  ]
+}
